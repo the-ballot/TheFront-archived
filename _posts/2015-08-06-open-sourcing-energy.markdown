@@ -14,7 +14,7 @@ It's worth mentioning that we don't just talk externally about Open Source. Inte
 
 The Open Source app idea started with an experiment in the Summer of 2014, asking, "What does a truly Open Source App look like?" The outcome of that was our Swift Kiosk app, [Eidolon](https://github.com/artsy/eidolon/). Open from day one. We took the knowledge from that and applied it to our public facing app, [Eigen](https://github.com/artsy/eigen/). Open from day 806. That made 2/3rds of our apps Open Source.
 
-I'm going to talk about our final app, [Energy](https://github.com/artsy/energy). Open from day 1433 and ~3500 commits.
+I'm going to talk about our final app, [Energy](https://github.com/artsy/energy). Open from day 1433 and 3500 commits.
 
 <!-- more -->
 
